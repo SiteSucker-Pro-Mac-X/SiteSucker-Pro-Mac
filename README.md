@@ -4,8 +4,8 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/11634/m/phpk0srjx-logo.png?v=1699600184" width="200"><br>
-<a href="https://software-apps-osx.github.io/.github/">
+<img src="https://insmac.org/uploads/posts/2021-11/sitesucker-pro.png" width="200"><br>
+<a href="https://gnomik-gomik-apps.github.io/.github/SiteS">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 <div align="center">
